@@ -1,0 +1,16 @@
+# Odoo
+/odoo-core/
+/data_dir/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Sistema
+.DS_Store
